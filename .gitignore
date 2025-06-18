@@ -3,5 +3,3 @@
 /kubernetes-event-exporter
 
 *.code-workspace
-
-dist/*
